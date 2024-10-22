@@ -1,3 +1,5 @@
+<div  style="min-width:900px; max-width:900px">
+
 ## Hi there 👋
 
 <div align="center">
@@ -5,16 +7,16 @@
 </div>
 
 ```bash
-                                             > Unai Navarro:
-                                             
-                                                 🌐 : unainavarro@github.com
-                                             ┌──────────────────────────────────────────┐
-                                               👨‍🎓 : Software developer
-                                               ✨ : Java - Angular
-                                               🔭 : New projects to join
-                                               🌱 : I am reinforcing knowledge
-                                               📫 : unai.navarro@outlook.com
-                                             └──────────────────────────────────────────┘
+                                      > Unai Navarro:
+
+                                          🌐 : unainavarro@github.com
+                                      ┌──────────────────────────────────────────┐
+                                        👨‍🎓 : Software developer
+                                        ✨ : Java - Angular
+                                        🔭 : New projects to join
+                                        🌱 : I am reinforcing knowledge
+                                        📫 : unai.navarro@outlook.com
+                                      └──────────────────────────────────────────┘
 ```
 
 ---

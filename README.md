@@ -1,25 +1,30 @@
 ## Hi there 👋
 
-<img align='left' style="border-radius=25px" src="./img/avatar.jpeg" height="230">
+<div align="center">
+<img src="./img/avatar.jpeg" height="230">
+</div>
 
 ```bash
-> Unai Navarro:
-
-         🌐 : unainavarro@github.com
-┌──────────────────────────────────────────┐
-  👨‍🎓 : Software developer
-  ✨ : Java - Angular
-  🔭 : New projects to join
-  🌱 : I am reinforcing knowledge
-  📫 : unai.navarro@outlook.com
-└──────────────────────────────────────────┘
+                                             > Unai Navarro:
+                                             
+                                                 🌐 : unainavarro@github.com
+                                             ┌──────────────────────────────────────────┐
+                                               👨‍🎓 : Software developer
+                                               ✨ : Java - Angular
+                                               🔭 : New projects to join
+                                               🌱 : I am reinforcing knowledge
+                                               📫 : unai.navarro@outlook.com
+                                             └──────────────────────────────────────────┘
 ```
 
 ---
 
-<details markdown='1'>
-<summary align="center">Ver más 👀 </summary>
+<div align="center">
+<details markdown='1'> 
+<summary>Ver más 👀 </summary>
 
+<div align="left">
+         
 ## Estadísticas
 
 ![Unai Navarro' GitHub stats](https://github-readme-stats.vercel.app/api?username=unainavarro&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unainavarro&layout=compact&theme=dark)
@@ -47,9 +52,13 @@
 <img src="./img/java.svg" alt="" width="37">
 <img src="./img/spring.svg" alt="" width="30">
 
+</div>
+
 ---
 
 </details>
+
+</div>
 
 ---
 

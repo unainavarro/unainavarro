@@ -2,7 +2,7 @@
 
 <img align="left" src="./img/avatar.jpeg" height="230">
 
-<div  style="min-width:660px; max-width:700px;">
+<div  style="min-width:650px; max-width:650px;">
 
 ```bash
     > Unai Navarro:

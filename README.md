@@ -1,24 +1,20 @@
-<div  style="min-width:900px; max-width:900px">
-
 ## Hi there 👋
 
-<div align="center">
-<img src="./img/avatar.jpeg" height="230">
-</div>
+<img align="left" src="./img/avatar.jpeg" height="230">
 
-<div  style="min-width:250px; max-width:900px">
+<div  style="min-width:660px; max-width:700px;">
 
 ```bash
-                                    > Unai Navarro:
+    > Unai Navarro:
 
-                                        🌐 : unainavarro@github.com
-                                    ┌──────────────────────────────────────────┐
-                                      👨‍🎓 : Software developer
-                                      ✨ : Java - Angular
-                                      🔭 : New projects to join
-                                      🌱 : I am reinforcing knowledge
-                                      📫 : unai.navarro@outlook.com
-                                    └──────────────────────────────────────────┘
+        🌐 : unainavarro@github.com
+    ┌──────────────────────────────────────────┐
+      👨‍🎓 : Software developer
+      ✨ : Java - Angular
+      🔭 : New projects to join
+      🌱 : I am reinforcing knowledge
+      📫 : unai.navarro@outlook.com
+    └──────────────────────────────────────────┘
 ```
 
 </div>
@@ -63,8 +59,6 @@
 ---
 
 </details>
-
-</div>
 
 ---
 

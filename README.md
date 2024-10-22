@@ -6,18 +6,22 @@
 <img src="./img/avatar.jpeg" height="230">
 </div>
 
-```bash
-                                      > Unai Navarro:
+<div  style="min-width:250px; max-width:900px">
 
-                                          🌐 : unainavarro@github.com
-                                      ┌──────────────────────────────────────────┐
-                                        👨‍🎓 : Software developer
-                                        ✨ : Java - Angular
-                                        🔭 : New projects to join
-                                        🌱 : I am reinforcing knowledge
-                                        📫 : unai.navarro@outlook.com
-                                      └──────────────────────────────────────────┘
+```bash
+                                    > Unai Navarro:
+
+                                        🌐 : unainavarro@github.com
+                                    ┌──────────────────────────────────────────┐
+                                      👨‍🎓 : Software developer
+                                      ✨ : Java - Angular
+                                      🔭 : New projects to join
+                                      🌱 : I am reinforcing knowledge
+                                      📫 : unai.navarro@outlook.com
+                                    └──────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 

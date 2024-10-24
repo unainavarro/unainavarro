@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-<details markdown='1' open> 
+<details markdown='1'> 
 <summary>Ver más 👀 </summary>
 
 <div align="left">

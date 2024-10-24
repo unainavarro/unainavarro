@@ -12,7 +12,7 @@
       👨‍🎓 : Software developer
       ✨ : Java - Angular
       🔭 : New projects to join
-      🌱 : I am reinforcing knowledge
+      🌱 : 🤔💭
       📫 : unai.navarro@outlook.com
     └──────────────────────────────────────────┘
 ```
@@ -22,17 +22,19 @@
 ---
 
 <div align="center">
-<details markdown='1'> 
+<details markdown='1' open> 
 <summary>Ver más 👀 </summary>
 
 <div align="left">
          
 ## Estadísticas
 
-![Unai Navarro' GitHub stats](https://github-readme-stats.vercel.app/api?username=unainavarro&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unainavarro&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000&layout=compact)
 
 ## Tecnologías
 
+<div align="left">
 <img src="./img/linux.svg" alt="" width="35">
 <img src="./img/bash.svg" alt="" width="35">
 <img src="./img/git.svg" alt="" width="35">
@@ -53,6 +55,11 @@
 <br>
 <img src="./img/java.svg" alt="" width="37">
 <img src="./img/spring.svg" alt="" width="30">
+</div>
+
+<div align="center">
+<img src="./img/mona-whisper.gif" alt="mona-whisper" width="65">
+</div>
 
 </div>
 

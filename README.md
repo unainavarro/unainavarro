@@ -32,13 +32,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000" alt="Github Stats" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000&layout=compact" alt="Github Stats" width="400"/>
     </td>
     <td>
       &nbsp;
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000&layout=compact" alt="Top Langs" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000&layout=compact" alt="Top Langs" width="353"/>
     </td>
   </tr>
 </table>

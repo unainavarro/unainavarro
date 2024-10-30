@@ -29,22 +29,22 @@
          
 ## Estadísticas
 
-<!-- <table>
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000" alt="Github Stats" width="400"/>
     </td>
     <td>
-      <img src="./img/mona-whisper.gif" alt="mona-whisper" width="65">
+      &nbsp;
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000&layout=compact" alt="Top Langs" width="360"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000&layout=compact" alt="Top Langs" width="400"/>
     </td>
   </tr>
-</table> -->
+</table>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000&layout=compact)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unainavarro&show_icons=true&locale=es&bg_color=30,9f8c54,807321&title_color=000&text_color=fff&&icon_color=000&layout=compact) -->
 
 ## Tecnologías
 

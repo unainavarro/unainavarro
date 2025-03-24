@@ -51,7 +51,7 @@
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://code-path.netlify.app/">
+<a href="https://code-path.netlify.app/" target="_blank">
 <img src="img/proyectos/code-path.webp" width= 250 alt="Apuntes de programación">
 </a>
 </td>

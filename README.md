@@ -1,7 +1,7 @@
 <hr>
 <br>
 
-<img align="left" src="./img/avatar.png" height="210">
+<img align="left" src="./img/avatar.png" height="240">
 
 <div  style="min-width:650px; max-width:650px;">
 
